@@ -1,4 +1,4 @@
-_FBI Crime Data Tracker_
+# FBI Crime Data Tracker
 
 #### _This application displays data from the FBI Crime Data API, 10.19.2017_
 
